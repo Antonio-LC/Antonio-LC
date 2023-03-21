@@ -1,12 +1,12 @@
 # Antonio LC
 
 ### About Me
-- 📚 I am currently learning web development and machine learning. 
+- 📚 I am currently learning web development and data science. 
 - 💼 I’m looking to collaborate.
 
 ### Contact
 - 📫 Email: tonigti121@gmail.com
-- ✨ Discord: Antonioᴸᶜ#0001
+- ✨ Discord: Antonioᴸᶜ#9264
 
 ### Languages and Tools:
 <p align="left"> 
