@@ -6,7 +6,7 @@
 
 ### Contact
 - 📫 Email: tonigti121@gmail.com
-- ✨ Discord: Antonioᴸᶜ#9264
+- ✨ Discord: antonio_lc
 
 ### Languages and Tools:
 <p align="left"> 
